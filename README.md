@@ -96,8 +96,24 @@ Gather the Online News Article that you need to know about . The user can input 
 Once in the backend the embedding is done , a text box to enter the question or the query will be displayed . In that provided textbox , the user is asked to type the question and click enter .
 
 **Output :**
+### Interface :
+![Picture3](https://github.com/user-attachments/assets/138b2774-a553-49e0-b50c-0ddaeafc44ce)
 
-On following the above process , the user will get the answer for the required question that he/she posts along with the source URL .(Source URL is nothing but the URL from where the answer is fetched.)
+### Processing 2 URLs :
+![Picture4](https://github.com/user-attachments/assets/71509297-4b36-4e91-ac3f-9ec6990f971d)
+
+![Picture5](https://github.com/user-attachments/assets/9b0d62c7-fea6-408e-a525-5c4ceb453ebb)
+
+![Picture6](https://github.com/user-attachments/assets/ccb9213f-3be3-45a3-93ae-ee0f3af57a1d)
+
+### Processing 3 URLs :
+![Picture7](https://github.com/user-attachments/assets/90954f79-2f37-424e-babd-bf6abef00ba3)
+
+![Picture8](https://github.com/user-attachments/assets/852b766d-f819-43f5-90a3-a4129426c5c0)
+
+![Picture9](https://github.com/user-attachments/assets/31250e33-d0c5-40cb-9f2d-bd1cf2d78bd8)
+
+
 
 ## *Results and Impact*
 In conclusion, our proposed system stands to revolutionize equity research by integrating advanced NLP techniques and a user-friendly interface to provide a comprehensive solution for news analysis. The automation of content extraction and the generation of semantic embeddings offer a distinct advantage over traditional models, enhancing accuracy and efficiency. By minimizing manual input and focusing on delivering actionable insights, our project empowers equity researchers to navigate the complex landscape of financial news with greater agility and confidence.
